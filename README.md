@@ -1,7 +1,4 @@
-# AAStar Contracts
-这里汇集所有的AAStar合约和基础测试，为不同链提供已部署的地址常量和链上验证。
-
-## AirAccount
+# AirAccount
 We inhereted from Alchemy Light Account to fininsh a double signature(finger-print and TEE) contract account with EOA support(EIP7702).
 
 ## What is AirAccount?
